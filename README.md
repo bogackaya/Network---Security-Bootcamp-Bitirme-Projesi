@@ -18,6 +18,11 @@
 - Topoloji yeniden çizildi.
  
 - Kullanıcı cihazların, switchlerin ve routerların temel yapılandırılmaları(password, ip ataması, gateway v.b)tamamlandı.
+
+- L2 ve L3 cihazlar için atanan şifreler:
+ 
+  - **Password:** admin 
+  - **Secret Password:** admin
  
 - İstenilen proje nezlinde routelar yapıldı gerekli tesler tamamlandı.
  
@@ -34,6 +39,11 @@
   - Ipv4 için vlan 4,
  
   - Ipv6 için vlan 6 oluşturuldu gerekli ayarlar yapıldı.
+
+- Her iki vlan için server ve dns ayarları yapıldı.
+
+- Projede uygulanan bütün ayarlar proje üzerine not alındı.
+  
 
  
 
