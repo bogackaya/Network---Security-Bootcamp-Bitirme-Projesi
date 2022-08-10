@@ -30,9 +30,10 @@
   - Bu doğrultuda sadece iki porttan erişim sağlanırken icmp protokolü devre dışı kaldı.
   
 - İstanbul switchinde gerekli vlan yapılandırılmaları tamamlandı.
-  
-  -Ipv4 omurga için vlan4,
-  -Ipv6 için vlan6 
+ 
+  - Ipv4 için vlan 4,
+ 
+  - Ipv6 için vlan 6 oluşturuldu gerekli ayarlar yapıldı.
 
  
 
