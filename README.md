@@ -13,13 +13,13 @@
 
 # Yapılar İşlemler
 
-- Her iki proje için:
+- Her iki proje için;
 
 - Topoloji yeniden çizildi.
  
 - Kullanıcı cihazların, switchlerin ve routerların temel yapılandırılmaları(password, ip ataması, gateway v.b)tamamlandı.
 
-- L2 ve L3 cihazlar için atanan şifreler:
+- L2 ve L3 cihazlar için atanan şifreler;
  
   - **Password:** admin 
   - **Secret Password:** admin
