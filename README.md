@@ -45,6 +45,11 @@
 - Her iki vlan için server ve dns ayarları yapıldı.
 
 - Projede uygulanan bütün ayarlar proje üzerine not alındı.
+
+
+
+
+
   
 
  
