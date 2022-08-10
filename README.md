@@ -11,8 +11,8 @@
 
 ``` Serverlara sadece izin verilen portlardan ulaşılmalı.```
 
-# Yapılar İşlemler
-***
+# Yapılan İşlemler
+
 
 - Her iki proje için;
 
