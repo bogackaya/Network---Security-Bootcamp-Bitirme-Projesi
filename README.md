@@ -23,6 +23,8 @@
  
   - **Password:** admin 
   - **Secret Password:** admin
+  
+- L2 ve L3 cihazlar için kullanılmayan portlar kapatıldı.
  
 - İstenilen proje nezlinde routelar yapıldı gerekli testler tamamlandı.
  
