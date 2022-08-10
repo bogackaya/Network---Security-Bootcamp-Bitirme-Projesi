@@ -26,9 +26,9 @@
   
 - L2 ve L3 cihazlar için kullanılmayan portlar kapatıldı.
  
-- İstenilen proje nezlinde routelar yapıldı gerekli testler tamamlandı.
+- İstenilen proje özelinde routelar tamamlandı gerekli ping testleri yapıldı.
  
-- İstanbul routerı için sub int yapılandırıldı her iki omurga için servislere erişim sağlandı.
+- İstanbul routerı için sub interface yapılandırıldı her iki omurga için servislere erişim sağlandı.
  
 - Proje doğrultusunda İstanbul routerı üzerine Acl yapılandırılması gerçekleştirildi.
  
