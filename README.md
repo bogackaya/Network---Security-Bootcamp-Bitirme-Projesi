@@ -24,7 +24,7 @@
   - **Password:** admin 
   - **Secret Password:** admin
  
-- İstenilen proje nezlinde routelar yapıldı gerekli tesler tamamlandı.
+- İstenilen proje nezlinde routelar yapıldı gerekli testler tamamlandı.
  
 - İstanbul routerı için sub int yapılandırıldı her iki omurga için servislere erişim sağlandı.
  
