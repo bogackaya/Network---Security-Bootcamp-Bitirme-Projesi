@@ -12,6 +12,7 @@
 ``` Serverlara sadece izin verilen portlardan ulaşılmalı.```
 
 # Yapılar İşlemler
+***
 
 - Her iki proje için;
 
@@ -46,6 +47,7 @@
 
 - Projede uygulanan bütün ayarlar proje üzerine not alındı.
 
+***
 
 
 
