@@ -1,6 +1,6 @@
 # Network & Security Bootcamp Bitirme Projesi
 
-![image](https://user-images.githubusercontent.com/100123477/183902743-0dfa076f-0359-4a9f-9ec4-3c66e2b33630.png)
+![image](https://user-images.githubusercontent.com/100123477/184011326-5d6555a6-ae15-4aa3-b604-d3d9c86ded4d.png)
 
 # **Projelerden İstenenler**
 **Proje 1 :** ``` IPv4 omurga ve IPv6 omurga kendi içlerinde statik routing ile haberleşelebilmeli.```
