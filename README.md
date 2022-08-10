@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/100123477/183902743-0dfa076f-0359-4a9f-9ec4-3c66e2b33630.png)
 
-# **Projeden İstenenler**
+# **Projelerden İstenenler**
 **Proje 1 :** ``` IPv4 omurga ve IPv6 omurga kendi içlerinde statik routing ile haberleşelebilmeli.```
 
 **Proje 2 :** ``` IPv4 omurga ve IPv6 omurga kendi içlerinde ospf ile haberleşelebilmeli.```
